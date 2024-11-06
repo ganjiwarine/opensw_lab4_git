@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <finc1.h>
+#include <func1.h>
 
 
 void foo(void){
